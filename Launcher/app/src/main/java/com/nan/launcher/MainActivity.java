@@ -67,4 +67,8 @@ public class MainActivity extends AppCompatActivity {
         Log.d("<--",list.toString());
         return list;
     }
+
+    @Override
+    public void onBackPressed() {
+    }
 }
