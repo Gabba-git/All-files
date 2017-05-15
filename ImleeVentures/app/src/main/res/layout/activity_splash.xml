@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IIMLEE"
+        android:textColor="@color/white"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textStyle="bold"
+        android:id="@+id/iimlee"
+        android:layout_centerInParent="true"
+        android:textSize="50dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FAFAFA"
+        android:textSize="22sp"
+        android:textStyle="italic"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/iimlee"
+        android:id="@+id/source_income"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+        android:text="sustainable income"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+        android:textColor="#FAFAFA"
+        android:textSize="22sp"
+        android:textStyle="italic"
+        android:layout_below="@+id/source_income"
+        android:layout_alignLeft="@+id/source_income"
+        android:layout_centerHorizontal="true"
+        android:text="source"/>
+
+
+</RelativeLayout>

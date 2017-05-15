@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/prof"
+
+            android:title="Proficiency" />
+        <item
+            android:id="@+id/skill"
+
+            android:title="Skills" />
+        <item
+            android:id="@+id/setting"
+
+            android:title="Setting" />
+        <item
+            android:id="@+id/sign_out"
+
+            android:title="Sign Out" />
+    </group>
+</menu>

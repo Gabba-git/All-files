@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e0e0e0"
+    android:orientation="vertical"
+    tools:context="com.nan.greedygame.MapsActivity">
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:id="@+id/toolbar_main"
+        android:popupTheme="@style/Theme.AppCompat.Light"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:titleTextColor="#ffffff">
+
+    </android.support.v7.widget.Toolbar>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:text="Autoplay Mode"
+            android:id="@+id/autoplay"
+            android:layout_marginLeft="5dp"
+            android:elevation="5dp"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"/>
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:text="Seek Mode"
+            android:id="@+id/seekmode"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="5dp"
+            android:elevation="5dp"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+
+    <fragment
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:name="com.google.android.gms.maps.SupportMapFragment" />
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="2dp"
+        android:layout_margin="2dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/auto_layout">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/progress_layout">
+                <com.crystal.crystalrangeseekbar.widgets.CrystalRangeSeekbar
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:bar_color="@color/colorPrimary"
+                    app:min_value="0"
+                    app:max_value="60"
+                    app:steps="1"
+                    app:gap="5"
+
+                    android:layout_margin="1dp"
+                    app:data_type="_integer"
+                    app:bar_highlight_color="@color/colorAccent"
+                    android:layout_toLeftOf="@+id/autoplay_button"
+                    android:id="@+id/rangebar"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/autoplay_button"
+                    android:background="@color/colorPrimary"
+                    android:text="Auto Play"
+                    android:layout_marginTop="5dp"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:textColor="#ffffff"/>
+                <TextView
+                    android:id="@+id/textMin1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:layout_below="@+id/rangebar"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginStart="10dp"
+                    android:textSize="16dp"
+                    android:textColor="#000"/>
+
+                <TextView
+                    android:id="@+id/textMax1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:layout_below="@+id/rangebar"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="10dp"
+                    android:textSize="16dp"
+                    android:textColor="#000"
+                    android:layout_toLeftOf="@+id/autoplay_button"/>
+            </RelativeLayout>
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="2dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:id="@+id/seek_layout">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@color/colorPrimary"
+                android:text="SEEK"
+                android:id="@+id/seek_button"
+                android:layout_margin="2dp"
+
+                android:layout_alignBottom="@+id/time_layout"
+                android:textColor="#ffffff"
+                />
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:id="@+id/time_layout"
+                android:layout_margin="2dp"
+                android:layout_toLeftOf="@+id/seek_button">
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="time"
+                    android:id="@+id/time"
+                    android:hint="Enter time between 1-2 (eg. 1:02:34)"/>
+            </android.support.design.widget.TextInputLayout>
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

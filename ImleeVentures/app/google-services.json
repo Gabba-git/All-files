@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "974167511096",
+    "firebase_url": "https://imlee-96a48.firebaseio.com",
+    "project_id": "imlee-96a48",
+    "storage_bucket": "imlee-96a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974167511096:android:5393faa18dd84dcb",
+        "android_client_info": {
+          "package_name": "com.nan.imleeventures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974167511096-5ravkiq9t6e3o9fslvbugn6esq8u85uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nan.imleeventures",
+            "certificate_hash": "F3CA22E9234229DA4DD2D574F0FB45F8A66C5970"
+          }
+        },
+        {
+          "client_id": "974167511096-g1d60o831idvlviotmhlavert2k81419.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsYTOllD407--ZfEvomLU2FmUMEhDKLQU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974167511096-g1d60o831idvlviotmhlavert2k81419.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

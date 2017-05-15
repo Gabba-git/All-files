@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e0e0e0"
+    android:orientation="vertical"
+    tools:context="com.nan.greedygame.MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_marginLeft="8dp"
+        tools:layout_marginRight="8dp"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="#FAFAFA"
+            android:text="Auto Play"
+            android:id="@+id/autoplay"
+            android:layout_marginLeft="8dp"
+            android:elevation="5dp"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"/>
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="#FAFAFA"
+            android:text="Seek Mode"
+            android:id="@+id/seekmode"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="8dp"
+            android:elevation="5dp"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+    <fragment
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:name="com.google.android.gms.maps.SupportMapFragment" />
+</LinearLayout>

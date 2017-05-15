@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_10081c249182b21d3cfe3894f2111b892078fa8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_17d1fa6493d006a35ab24c0e6fc352f06d7f4eec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3c562a7a56a699eef3caa9da329aa7894c167563">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_794cf00f831bc9df08522977d6446ac75fb1e841/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1cb2f5804f4fc5c3a697b57e0abd0d74e92d10d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_efa6e45c56a83c1a90e5779d3769ea75a650f99d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_608182d33a7f60e932fc10aa1ccd5b0edc8b0339/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_6f61663aa4f22a4c0b3489287639f95dcd2fc2fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fc74e3b0dded96d14a100f356dfd7a708e8b86b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_39fd383b9e4559c653a227811fd566c3dbe3cf01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_dee5e637fe90a25965db1ee348b8c107f9f41a65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_77225a6ada83df48ea35266b51b0995839b1e815/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_171fcbeaa1887318e575f25db6e9f95cf57d14a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_f77cfe9c88027b383cef0d71768d9373bd9c0134/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_a0165ad3b141c76318e13a7ced2066f5da37b277/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_04daf24e35ca68836fa1a3e05ba58f302310ba78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_274c0a45859b3215915620ced695acd654585d8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_26040af8f26def640b7483319c8daea2bad5eee9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.4.0_c01449f45f45e228056cb0e1842ae6b5956a9b01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_b6c76292199b03c83681a113764324274ef1b9aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_b18bdb98b49520418eeb49c7f3e1333a2064ccb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_57952406b94e1de5cfebcc5e93dac624c08b8cbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a392bf9d5f44f58bf7a0cb626d5386cfb2ab021e">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_356c1576f44e433a26b58150ca2e9433a2e25121/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_a9f24fd8b619d1ed63aa371f695d95b234012d28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_7b43156bb01e32b5acc1fbbe50dd0a8353eedef9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="820605b42a2d3d9cb9e6c4cc7453fb4f802aedff">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.15.0_6fa3a6a2b13e803fc2f2e00c58c7611b56f05f7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6356e43e3c0dbac454d9a1940083458572af95a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_150016826856b45c57c9570f93216c30d939008f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_f233dd251b08fa13be723a2783da4df3fa6692c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_bafbf727cd3f2b63003ee94dfda008e7d24897d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_2aef1885b791cb3481c4f5a46d8d9da9985c17c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_bd28f5d585ca97ebd9a3316ee4ed4f052f3cd23a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_1475bbc66258698b5db2c35efccaa60a2d6132af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_ee8b23358f681451489f1e57229cbb509ae22deb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_58d9f19f57262fce10fc5da17aa525832674077e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_82fe3365c2ecb1bcba5470289d9bdcc4155db3be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_004b567a602b88c11b20d0cc3c3d80ab3d803618/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a373dd4eb5bb03d27ecd05677b23aac307d989fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/milind/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_60b4b6dfcce22e7071ea28f5d8a15a3879e6bb3a/classes.dex" />
+    </item>
+
+</items>
